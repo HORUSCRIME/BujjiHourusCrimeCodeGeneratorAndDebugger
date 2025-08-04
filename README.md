@@ -10,8 +10,8 @@ What it does:
 
 Under the Hood:
 
-1.Frontend: Crafted with React, offering a sleek and responsive user interface.
-2.Backend: Powered by Flask, handling the logic and API integrations.
-3.AI Engine: Leveraging the advanced capabilities of the Google Gemini API to deliver intelligent code understanding and generation.
+1.Frontend: Crafted with React, offering a sleek and responsive user interface.\\
+2.Backend: Powered by Flask, handling the logic and API integrations.\\
+3.AI Engine: Leveraging the advanced capabilities of the Google Gemini API to deliver intelligent code understanding and generation.\\
 
 This project demonstrates how modern AI can be seamlessly integrated into developer tools to enhance efficiency and reduce development cycles. It's incredibly rewarding to see these pieces come together to create something truly useful!
